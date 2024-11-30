@@ -19,3 +19,6 @@ To deploy this contract, use the QuantumNexus deployment tools:
 ```bash
 1 nexus deploy ExampleSmartContract
 ```
+
+## Usage
+After deployment, you can interact with the contract using the API or directly through the command line.
