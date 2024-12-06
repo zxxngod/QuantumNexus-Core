@@ -21,14 +21,12 @@
 [![Certified DevSecOps Professional](https://img.shields.io/badge/DevSecOps-Certified-00B2A9?style=flat&logo=devsecops&logoColor=white)](https://www.devsecops.org/certification)
 [![Certified Quantum Developer](https://img.shields.io/badge/Quantum%20Developer-Certified-8A2BE2?style=flat&logo=quantum&logoColor=white)](https://www.quantumdeveloper.org/)
 [![Certified Ethical AI Practitioner](https://img.shields.io/badge/Ethical%20AI%20Practitioner-Certified-FF4500?style=flat&logo=ai&logoColor=white)](https://www.ethicalai.org/)
-[![Certified IoT Specialist](https://img.shields.io/badge/IoT-Specialist-Certified-32CD32?style=flat&logo=iot&logoColor=white)](https://www.iotcertification.org/)
 [![Certified Cybersecurity Analyst](https://img.shields.io/badge/Cybersecurity%20Analyst-Certified-DC143C?style=flat&logo=cybersecurity&logoColor=white)](https://www.cybersecurityanalyst.org/)
 [![Certified Software Architect](https://img.shields.io/badge/Software%20Architect-Certified-4682B4?style=flat&logo=software&logoColor=white)](https://www.softwarearchitectcertification.org/)
 [![Certified Agile Practitioner](https://img.shields.io/badge/Agile%20Practitioner-Certified-FFA500?style=flat&logo=agile&logoColor=white)](https://www.agilecertification.org/)
 [![Certified Data Engineer](https://img.shields.io/badge/Data%20Engineer-Certified-1E90FF?style=flat&logo=data-engineering&logoColor=white)](https://www.dataengineercertification.org/)
 [![Certified Information Systems Auditor](https://img.shields.io/badge/CISA-Certified-FF6347?style=flat&logo=isaca&logoColor=white)](https://www.isaca.org/credentialing/cisa)
 [![Certified Cloud Architect](https://img.shields.io/badge/Cloud%20Architect-Certified-FFD700?style=flat&logo=cloud&logoColor=white)](https://www.cloudarchitectcertification.org/)
-[![Certified Machine Learning Specialist](https://img.shields.io/badge/Machine%20Learning-Specialist-Certified-8B0000?style=flat&logo=machinelearning&logoColor=white)](https://www.mlcertification.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/QuantumNexus-Core">Quantum Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
