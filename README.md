@@ -56,6 +56,21 @@
 ![Certified Business Intelligence Professional (CBIP)](https://img.shields.io/badge/CBIP-Certified-0072C6?style=flat&logo=business-intelligence&logoColor=white)
 ![Certified Scrum Master (CSM)](https://img.shields.io/badge/CSM-Certified-FFB800?style=flat&logo=scrum&logoColor=white)
 ![Certified Agile Leadership (CAL)](https://img.shields.io/badge/CAL-Certified-FFA500?style=flat&logo=agile&logoColor=white)
+![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-Associate-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Google Cloud Certified - Professional Cloud Architect](https://img.shields.io/badge/Google%20Cloud%20Certified-Professional%20Cloud%20Architect-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Microsoft Certified: Azure Solutions Architect Expert](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Solutions%20Architect%20Expert-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-Certified-FF7F00?style=flat&logo=comptia&logoColor=white)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA%20Network%2B-Certified-FF7F00?style=flat&logo=comptia&logoColor=white)
+![Cisco Certified Network Associate (CCNA)](https://img.shields.io/badge/Cisco%20CCNA-Certified-0072C6?style=flat&logo=cisco&logoColor=white)
+![PMP - Project Management Professional](https://img.shields.io/badge/PMP-Certified-6CAAE0?style=flat&logo=pmp&logoColor=white)
+![ITIL Foundation](https://img.shields.io/badge/ITIL%20Foundation-Certified-5C5C5C?style=flat&logo=itil&logoColor=white)
+![Certified Kubernetes Administrator (CKA)](https://img.shields.io/badge/CKA-Certified-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Certified Information Systems Auditor (CISA)](https://img.shields.io/badge/CISA-Certified-0072C6?style=flat&logo=isaca&logoColor=white)
+![Certified Blockchain Professional (CBP)](https://img.shields.io/badge/CBP-Certified-0072C6?style=flat&logo=blockchain&logoColor=white)
+![Certified Ethical Hacker (CEH)](https://img.shields.io/badge/CEH-Certified-5C5C5C?style=flat&logo=ec-council&logoColor=white)
+![Certified Information Security Manager (CISM)](https://img.shields.io/badge/CISM-Certified-0072C6?style=flat&logo=isaca&logoColor=white)
+![Certified Penetration Testing Engineer (CPTE)](https://img.shields.io/badge/CPTE-Certified-0072C6?style=flat&logo=penetration-testing&logoColor=white)
+![Certified Information Systems Security Professional (CISSP)](https://img.shields.io/badge/CISSP-Certified-0072C6?style=flat&logo=isc2&logoColor=white)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/QuantumNexus-Core">Quantum Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
