@@ -42,6 +42,20 @@
 ![Certified Software Tester (CSTE)](https://img.shields.io/badge/CSTE-Certified-0072C6?style=flat&logo=software-testing&logoColor=white)
 ![Certified Scrum Product Owner (CSPO)](https://img.shields.io/badge/CSPO-Certified-FFB800?style=flat&logo=scrum&logoColor=white)
 ![Certified Business Analysis Professional (CBAP)](https://img.shields.io/badge/CBAP-Certified-0072C6?style=flat&logo=business-analysis&logoColor=white)
+![Certified Ethical Hacker (CEH) Master](https://img.shields.io/badge/CEH%20Master-Certified-5C5C5C?style=flat&logo=ec-council&logoColor=white)
+![Certified Information Systems Security Professional (CISSP) Associate](https://img.shields.io/badge/CISSP%20Associate-Certified-5C5C5C?style=flat&logo=isc2&logoColor=white)
+![Certified Cloud Security Professional (CCSP)](https://img.shields.io/badge/CCSP-Certified-0072C6?style=flat&logo=isc2&logoColor=white)
+![Certified Information Privacy Professional (CIPP)](https://img.shields.io/badge/CIPP-Certified-0072C6?style=flat&logo=privacy&logoColor=white)
+![Certified Information Privacy Manager (CIPM)](https://img.shields.io/badge/CIPM-Certified-0072C6?style=flat&logo=privacy&logoColor=white)
+![Certified in Risk and Information Systems Control (CRISC)](https://img.shields.io/badge/CRISC-Certified-0072C6?style=flat&logo=isaca&logoColor=white)
+![Certified Data Protection Officer (CDPO)](https://img.shields.io/badge/CDPO-Certified-0072C6?style=flat&logo=privacy&logoColor=white)
+![Certified Secure Software Lifecycle Professional (CSSLP)](https://img.shields.io/badge/CSSLP-Certified-0072C6?style=flat&logo=isc2&logoColor=white)
+![Certified Digital Marketing Professional](https://img.shields.io/badge/Digital%20Marketing%20Professional-Certified-FF9900?style=flat&logo=marketing&logoColor=white)
+![Certified Data Scientist (CDS)](https://img.shields.io/badge/Data%20Scientist-Certified-0072C6?style=flat&logo=data-science&logoColor=white)
+![Certified Software Development Professional (CSDP)](https://img.shields.io/badge/CSDP-Certified-0072C6?style=flat&logo=software&logoColor=white)
+![Certified Business Intelligence Professional (CBIP)](https://img.shields.io/badge/CBIP-Certified-0072C6?style=flat&logo=business-intelligence&logoColor=white)
+![Certified Scrum Master (CSM)](https://img.shields.io/badge/CSM-Certified-FFB800?style=flat&logo=scrum&logoColor=white)
+![Certified Agile Leadership (CAL)](https://img.shields.io/badge/CAL-Certified-FFA500?style=flat&logo=agile&logoColor=white)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/QuantumNexus-Core">Quantum Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
