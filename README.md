@@ -27,6 +27,21 @@
 [![Certified Data Engineer](https://img.shields.io/badge/Data%20Engineer-Certified-1E90FF?style=flat&logo=data-engineering&logoColor=white)](https://www.dataengineercertification.org/)
 [![Certified Information Systems Auditor](https://img.shields.io/badge/CISA-Certified-FF6347?style=flat&logo=isaca&logoColor=white)](https://www.isaca.org/credentialing/cisa)
 [![Certified Cloud Architect](https://img.shields.io/badge/Cloud%20Architect-Certified-FFD700?style=flat&logo=cloud&logoColor=white)](https://www.cloudarchitectcertification.org/)
+![Certified Kubernetes Application Developer](https://img.shields.io/badge/Kubernetes%20Application%20Developer-Certified-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Certified Ethical Hacker (CEH) Master](https://img.shields.io/badge/CEH%20Master-Certified-5C5C5C?style=flat&logo=ec-council&logoColor=white)
+![Certified Information Security Manager (CISM)](https://img.shields.io/badge/CISM-Certified-0072C6?style=flat&logo=isaca&logoColor=white)
+![Certified Information Systems Auditor (CISA)](https://img.shields.io/badge/CISA-Certified-FF6347?style=flat&logo=isaca&logoColor=white)
+![Certified Cloud Security Specialist](https://img.shields.io/badge/Cloud%20Security%20Specialist-Certified-FF5722?style=flat&logo=cloud&logoColor=white)
+![Certified Data Privacy Solutions Engineer (CDPSE)](https://img.shields.io/badge/CDPSE-Certified-0072C6?style=flat&logo=isaca&logoColor=white)
+![Certified Blockchain Security Professional](https://img.shields.io/badge/Blockchain%20Security%20Professional-Certified-FFB800?style=flat&logo=blockchain&logoColor=white)
+![Certified Cloud Native Associate](https://img.shields.io/badge/Cloud%20Native%20Associate-Certified-00B2A9?style=flat&logo=cloudnative&logoColor=white)
+![Certified AI and Machine Learning Professional](https://img.shields.io/badge/AI%20and%20ML%20Professional-Certified-4B0082?style=flat&logo=ai&logoColor=white)
+![Certified Data Analyst](https://img.shields.io/badge/Data%20Analyst-Certified-FF9900?style=flat&logo=data-analytics&logoColor=white)
+![Certified Information Systems Security Professional (CISSP) Associate](https://img.shields.io/badge/CISSP%20Associate-Certified-5C5C5C?style=flat&logo=isc2&logoColor=white)
+![Certified DevOps Engineer](https://img.shields.io/badge/DevOps%20Engineer-Certified-00B2A9?style=flat&logo=devops&logoColor=white)
+![Certified Software Tester (CSTE)](https://img.shields.io/badge/CSTE-Certified-0072C6?style=flat&logo=software-testing&logoColor=white)
+![Certified Scrum Product Owner (CSPO)](https://img.shields.io/badge/CSPO-Certified-FFB800?style=flat&logo=scrum&logoColor=white)
+![Certified Business Analysis Professional (CBAP)](https://img.shields.io/badge/CBAP-Certified-0072C6?style=flat&logo=business-analysis&logoColor=white)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/QuantumNexus-Core">Quantum Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
