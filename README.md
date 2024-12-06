@@ -113,10 +113,6 @@ We welcome contributions! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file
 
 This project is licensed under the terms of the [MIT License](LICENSE).
 
-## Contact
-
-For questions or inquiries, please reach out to the Quantum Nexus team at [contact@quantumnexus.org](mailto:contact@quantumnexus.org).
-
 ---
 
 Join us in shaping the future of technology with Quantum Nexus!
