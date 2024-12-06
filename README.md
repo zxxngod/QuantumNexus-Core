@@ -71,6 +71,10 @@
 ![Certified Information Security Manager (CISM)](https://img.shields.io/badge/CISM-Certified-0072C6?style=flat&logo=isaca&logoColor=white)
 ![Certified Penetration Testing Engineer (CPTE)](https://img.shields.io/badge/CPTE-Certified-0072C6?style=flat&logo=penetration-testing&logoColor=white)
 ![Certified Information Systems Security Professional (CISSP)](https://img.shields.io/badge/CISSP-Certified-0072C6?style=flat&logo=isc2&logoColor=white)
+[![ISO 9001 Certified](https://img.shields.io/badge/ISO%209001-Certified-brightgreen.svg)](https://www.iso.org/iso-9001-quality-management.html)
+[![ISO 27001 Certified](https://img.shields.io/badge/ISO%2027001-Certified-brightgreen.svg)](https://www.iso.org/iso-27001-information-security.html)
+[![GDPR Compliant](https://img.shields.io/badge/GDPR-Compliant-brightgreen.svg)](https://gdpr.eu/)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg)](https://opensource.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/QuantumNexus-Core">Quantum Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
