@@ -1,0 +1,27 @@
+class HighPriestessElara:
+    def __init__(self, name, clan, abilities, education):
+        self.name = name
+        self.clan = clan
+        self.abilities = abilities
+        self.education = education
+
+    def display_profile(self):
+        print(f"Name: {self.name}")
+        print(f"Clan: {self.clan}")
+        print("Abilities:")
+        for ability in self.abilities:
+            print(f" - {ability}")
+        print("Education:")
+        for edu in self.education:
+            print(f" - {edu}")
+
+# Creating an instance of HighPriestessElara
+elara = HighPriestessElara(
+    name="Elara",
+    clan="Cyber-Elves",
+    abilities=["Mastery of complex spells", "Advanced technological understanding"],
+    education=["Mystical teachings", "Technological training"]
+)
+
+# Displaying Elara's profile
+elara.display_profile()
