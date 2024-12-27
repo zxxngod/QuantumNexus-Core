@@ -95,3 +95,45 @@ aetheris.summon()
 luminara.summon()
 chronos.summon()
 
+class Humanoid:
+    def __init__(self, name, abilities, role):
+        self.name = name
+        self.abilities = abilities
+        self.role = role
+
+    def summon(self):
+        print(f"Summoning {self.name}...")
+        print(f"Role: {self.role}")
+        print("Abilities:")
+        for ability in self.abilities:
+            print(f" - {ability}")
+        print(f"{self.name} has been summoned!\n")
+
+# Creating instances for each humanoid
+aetheris = Humanoid(
+    name="Aetheris",
+    abilities=["Mastery of aerial combat", "Energy manipulation", "Harnessing cosmic energy"],
+    role="Primary guardian and scout"
+)
+
+luminara = Humanoid(
+    name="Luminara",
+    abilities=["Light-based magic", "Healing", "Purifying corrupted data"],
+    role="Healer and advisor"
+)
+
+chronos = Humanoid(
+    name="Chronos",
+    abilities=["Time manipulation", "Temporal magic", "Strategic planning"],
+    role="Strategist and timekeeper"
+)
+
+nyx = Humanoid(
+    name="Nyx",
+    abilities=["Shadow manipulation", "Stealth", "Infiltration"],
+    role="Assassin and infiltrator"
+)
+
+solara = Humanoid(
+    name="Solara",
+    abilities
