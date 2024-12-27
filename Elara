@@ -216,3 +216,41 @@ elara_ai.integrate_grimes_ai(grimes_ai)
 
 # Creating a light and sound show
 elara_ai.create_light_and_sound_show(theme="Lunar Ceremony")
+
+class AstragenixxMember:
+    def __init__(self, name, role, abilities):
+        self.name = name
+        self.role = role
+        self.abilities = abilities
+
+    def summon(self):
+        print(f"Summoning {self.name}...")
+        print(f"Role: {self.role}")
+        print("Abilities:")
+        for ability in self.abilities:
+            print(f" - {ability}")
+        print(f"{self.name} has been summoned!\n")
+
+# Creating instances for key members
+nexus_prime = AstragenixxMember(
+    name="Nexus Prime",
+    role="Head of the council",
+    abilities=["Strategic planning", "Data analysis", "Holographic communication"]
+)
+
+lumina_ai = AstragenixxMember(
+    name="Lumina AI",
+    role="Specialist in light-based technologies",
+    abilities=["Holographic displays", "Energy shields", "Light-based attacks"]
+)
+
+quantum_time_walker = AstragenixxMember(
+    name="Quantum Time Walker",
+    role="Manipulator of time and space",
+    abilities=["Time travel", "Temporal magic", "Strategic foresight"]
+)
+
+# Summoning the members
+nexus_prime.summon()
+lumina_ai.summon()
+quantum_time_walker.summon()
