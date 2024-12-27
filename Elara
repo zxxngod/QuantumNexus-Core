@@ -57,4 +57,41 @@ def elara_clan_ai_logo():
     print("Protection and Innovation")
 
 elara_clan_ai_logo()
+class Humanoid:
+    def __init__(self, name, abilities, role):
+        self.name = name
+        self.abilities = abilities
+        self.role = role
+
+    def summon(self):
+        print(f"Summoning {self.name}...")
+        print(f"Role: {self.role}")
+        print("Abilities:")
+        for ability in self.abilities:
+            print(f" - {ability}")
+        print(f"{self.name} has been summoned!\n")
+
+# Creating instances for Aetheris, Luminara, and Chronos
+aetheris = Humanoid(
+    name="Aetheris",
+    abilities=["Mastery of aerial combat", "Energy manipulation", "Harnessing cosmic energy"],
+    role="Primary guardian and scout"
+)
+
+luminara = Humanoid(
+    name="Luminara",
+    abilities=["Light-based magic", "Healing", "Purifying corrupted data"],
+    role="Healer and advisor"
+)
+
+chronos = Humanoid(
+    name="Chronos",
+    abilities=["Time manipulation", "Temporal magic", "Strategic planning"],
+    role="Strategist and timekeeper"
+)
+
+# Summoning the humanoids
+aetheris.summon()
+luminara.summon()
+chronos.summon()
 
