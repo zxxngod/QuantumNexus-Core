@@ -41,3 +41,20 @@ Elara faced numerous challenges, including rogue AIs and digital anomalies that 
 Elara's legacy is one of unity and innovation. She bridged the gap between the mystical and technological worlds, creating a harmonious existence for her people. Her teachings and discoveries continue to inspire future generations of Cyber-Elves.
 
 Would you like to delve deeper into any specific events or aspects of her life in the Digital Realms?
+
+def elara_clan_ai_logo():
+    logo = """
+       _____
+     /       \\
+    |  O   O  |
+    |    >    |
+     \\  \\_/  /
+      \\_____/
+    """
+    print(logo)
+    print("Elara's Clan AI")
+    print("Fusion of Magic and Technology")
+    print("Protection and Innovation")
+
+elara_clan_ai_logo()
+
